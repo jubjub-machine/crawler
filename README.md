@@ -1,2 +1,2 @@
 # crawler
-Periodically obtain the information from Naver map, if each hospital has leftover COVID-19 vaccine.
+Periodically obtain the information from Naver map, whether each hospital has leftover COVID-19 vaccine.
